@@ -1,0 +1,6 @@
+/node_modules/
+/esm/
+/cjs/
+/tests/dist/
+*.log
+*.tgz
